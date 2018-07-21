@@ -62,4 +62,4 @@ script: |
   cp ../../release/* ../release/
   cp ../../src/*.exe .
   makensis ../share/setup.nsi
-  cp ../share/kkachicoin-*-win32-setup.exe $OUTDIR/
+  #cp ../share/kkachicoin-*-win32-setup.exe $OUTDIR/
